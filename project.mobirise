@@ -1,0 +1,369 @@
+{
+  "settings": {
+    "name": "NewSite-12-28_0523",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "colorm",
+      "title": "ColorM",
+      "styling": {
+        "primaryColor": "#3498db",
+        "buttonsColor": "#000000",
+        "secondaryColor": "#9b59b6",
+        "successColor": "#2ecc71",
+        "infoColor": "#3498db",
+        "warningColor": "#f1c40f",
+        "dangerColor": "#e74c3c",
+        "titleFont": "Droid Serif",
+        "subtitleFont": "Droid Serif",
+        "textFont": "Droid Serif",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false
+      }
+    },
+    "snow": "",
+    "versionFirst": "3.10.4",
+    "uniqCompNum": 10,
+    "versionPublish": "3.10.4",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/2017-2-128x89-70.png",
+    "noImageResize": "",
+    "cookiesAlert": "",
+    "google-analytics": "",
+    "html_before": "",
+    "headbody": "",
+    "botbody": ""
+  },
+  "pages": {
+    "tiser.html": {
+      "settings": {
+        "main": true,
+        "title": "«РЕДКАЯ ЕЛКА 2017» - видеоклип",
+        "meta_descr": "20 декабря 2016 года  в Общественной палате РФ прошло новогоднее мероприятие для «особенных» детей - «РЕДКАЯ ЕЛКА».\n\nОрганизатор — Комиссия ОП РФ по охране здоровья, физической культуре и популяризации здорового образа жизни совместно с межрегиональной благотворительной общественной организацией инвалидов «Союз пациентов и пациентских организаций по редким заболеваниям».\n\nОсновные задачи праздника — это социальная адаптация детей и родителей, улучшение уровня взаимодействия между пациентами, пациентскими группами и врачами, привлечение внимания общественности к проблемам пациентов с редкими заболеваниями в Российской Федерации.",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header10",
+          "_anchor": "header10-0",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "file:///C:/Users/Pavel/AppData/Local/Mobirise.com/Mobirise/projectData/bstxfrucfecmrbuliqffycpwf3tdwrp3-2000x1234-35.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/IZYrMmMa7pI?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+            },
+            "bgVideoRadio": true,
+            "overlay": true,
+            "overlayOpacity": "0.3",
+            "overlayColor": "#000000",
+            "showTitle": true,
+            "showText": true,
+            "showVideo": true,
+            "showButtons": false,
+            "showArrow": true,
+            "VideoUrl": "https://youtu.be/yDX4EPzUDcU"
+          },
+          "title": "«РЕДКАЯ ЕЛКА 2017»",
+          "text": "<b><br></b><b>20 декабря 2016 года  в Общественной палате РФ <br>прошло новогоднее мероприятие для «особенных» детей.</b><br><b><br></b><br>",
+          "media": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/play-xl-76x76-89.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "right-10",
+              "family": "icon54",
+              "link": "#modalWindow",
+              "size": 0,
+              "color": "#ffffff",
+              "active": true
+            }
+          },
+          "text2": "<label class=\"startPreset\" for=\"modal\">СМОТРЕТЬ ВИДЕОКЛИП</label>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown-4.png",
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700);\n@import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700);\n.display-1 {\n\tfont-weight: 700;\n\ttext-transform: uppercase;\n\tmargin-top: 40px;\n}\nP {\n\tfont-size: 30px;\n}\nH1 {\n\tfont-size: 60px;\n\tfont-family: 'Droid Serif', serif;\n}\nLABEL {\n\tfont-size: 23px;\n\tfont-family: 'Droid Serif', serif;\n}\n",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full header10\" data-bg-video=\"https://www.youtube.com/embed/IZYrMmMa7pI?rel=0&amp;amp;showinfo=0&amp;autoplay=0&amp;loop=0\">\n\n        <div class=\"mbr-overlay\" style=\"opacity: 0.3; background-color: rgb(0, 0, 0);\">    \n        </div>\n        <div class=\"mbr-table-cell\">\n            <div class=\"container\">\n                <div class=\"mbr-section row\">\n                    <div>\n                            <h1 class=\"mbr-section-title display-1 text-center startPreset mbr-editable-content\" code-editable-id=\"19\">«РЕДКАЯ ЕЛКА 2017»</h1>\n\n                            <div class=\"mbr-section-text lead text-center startPreset\">\n                                <p class=\"mbr-editable-content\" code-editable-id=\"20\"><strong><br></strong><strong>20 декабря 2016 года  в Общественной палате РФ <br>прошло новогоднее мероприятие для «особенных» детей.</strong><br><strong><br></strong><br></p>\n                            </div>\n            \n                \n                            <div class=\"mbr-figure intro-play-btn-figure\"><a href=\"#modalWindow\" class=\"icon54-right-10 mbr-iconfont mbr-iconfont-features4\" style=\"color: rgb(255, 255, 255);\"></a></div>\n    \n\n                            <a class=\"modalWindow-link\"><span class=\"intro-play-btn h-white mbr-editable-content\" code-editable-id=\"21\"><label class=\"startPreset\" for=\"modal\">СМОТРЕТЬ ВИДЕОКЛИП</label></span></a>\n\n                            \n\n                    </div>\n         \n\n                </div> \n            </div> \n        </div>\n        \n        <div class=\"mbr-arrow mbr-arrow-floating\" aria-hidden=\"true\">\n            <a href=\"#form3-3\">\n                <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/arrowdown-4.png\">\n            </a>\n        </div>\n\n        <div class=\"modalWindow\" id=\"modalWindow\">\n            <div class=\"modalWindow-container\">                      \n                 <div class=\"modalWindow-video-container\">\n                     <div class=\"modalWindow-video\" href=\"https://youtu.be/yDX4EPzUDcU\">\n                         <iframe width=\"100%\" height=\"100%\" src=\"https://www.youtube.com/embed/yDX4EPzUDcU\" frameborder=\"0\" allowfullscreen=\"1\"></iframe>\n                    </div>\n                    <a class=\"close\" role=\"button\" data-dismiss=\"modal\">\n                        <span aria-hidden=\"true\" class=\"closeModal\">×</span>\n                    </a>\n                 </div>\n            </div>\n        </div>       \n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customTemplate": true
+        },
+        {
+          "_styles": {
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase"
+            },
+            ".form-control-label": {},
+            ".mbr-section-title": {
+              "font-size": "25px",
+              "text-align": "center",
+              "color": "#333333"
+            },
+            ".btn": {
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700"
+            }
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form3",
+          "_anchor": "form3-3",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "file:///C:/Users/Pavel/AppData/Local/Mobirise.com/Mobirise/projectData/04.jpg",
+            "bgColor": "#ecf0f1",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#ecf0f1",
+            "showSubtitle": false,
+            "showTitle": true,
+            "showText": false
+          },
+          "subtitle": "Get notified about new amazing products",
+          "title": "Подписаться на свежие новости РЕДКОГО сайта!",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+          "form": {
+            "action": "spiporz@mail.ru",
+            "alerts": {
+              "success": "Ваша заявка на подписку оформлена!"
+            },
+            "fields": {
+              "message": {
+                "visible": false,
+                "title": "Message",
+                "customTitle": "Message"
+              },
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Ф.И.О.*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "E-mail*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              }
+            }
+          },
+          "iconName": "<img src=\"@PROJECT_PATH@/assets/images/icon-name.png\">",
+          "iconEmail": "<img src=\"@PROJECT_PATH@/assets/images/icon-email.png\">",
+          "iconPhone": "<img src=\"@THEME_PATH@/components/_images/form/icon-phone.png\">",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ПОДПИСАТЬСЯ</a>"
+        },
+        {
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-size": "12px",
+              "color": "#dddddd"
+            }
+          },
+          "_anchor": "content1-6",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#333333"
+          },
+          "text": "Информационные некоммерческие медиа-проекты:&nbsp;<br>Межрегиональной Благотворительной Общественной Организации Инвалидов &nbsp;<a href=\"http://spiporz.ru\" target=\"_blank\" style=\"font-style: normal;\" class=\"text-primary\">«СОЮЗ ПАЦИЕНТОВ И ПАЦИЕНТСКИХ ОРГАНИЗАЦИЙ ПО РЕДКИМ ЗАБОЛЕВАНИЯМ»</a> 2011-2017 ©<br><br>Со-автор проекта и креативный партнер: <a href=\"http://kochunov.ru/\" target=\"_blank\" class=\"text-primary\" style=\"font-style: normal;\">Pavel Kochunov</a> (CC-BY) 1997-2017&nbsp;"
+        }
+      ]
+    },
+    "index.html": {
+      "settings": {
+        "title": "«РЕДКАЯ ЕЛКА 2017» - видеоклип",
+        "meta_descr": "20 декабря 2016 года  в Общественной палате РФ прошло новогоднее мероприятие для «особенных» детей - «РЕДКАЯ ЕЛКА».\n\nОрганизатор — Комиссия ОП РФ по охране здоровья, физической культуре и популяризации здорового образа жизни совместно с межрегиональной благотворительной общественной организацией инвалидов «Союз пациентов и пациентских организаций по редким заболеваниям».\n\nОсновные задачи праздника — это социальная адаптация детей и родителей, улучшение уровня взаимодействия между пациентами, пациентскими группами и врачами, привлечение внимания общественности к проблемам пациентов с редкими заболеваниями в Российской Федерации.",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header10",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "file:///C:/Users/Pavel/AppData/Local/Mobirise.com/Mobirise/projectData/bstxfrucfecmrbuliqffycpwf3tdwrp3-2000x1234-35.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/IZYrMmMa7pI?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+            },
+            "bgVideoRadio": true,
+            "overlay": true,
+            "overlayOpacity": "0.3",
+            "overlayColor": "#000000",
+            "showTitle": true,
+            "showText": true,
+            "showVideo": true,
+            "showButtons": false,
+            "showArrow": true,
+            "VideoUrl": "https://youtu.be/yDX4EPzUDcU"
+          },
+          "title": "«РЕДКАЯ ЕЛКА 2017»",
+          "text": "<b><br></b><b>20 декабря 2016 года  в Общественной палате РФ <br>прошло новогоднее мероприятие для «особенных» детей.</b><br><b><br></b><br>",
+          "media": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/play-xl-76x76-89.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "right-10",
+              "family": "icon54",
+              "link": "#modalWindow",
+              "size": 0,
+              "color": "#ffffff",
+              "active": true
+            }
+          },
+          "text2": "<label class=\"startPreset\" for=\"modal\">СМОТРЕТЬ ВИДЕОКЛИП</label>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown-4.png",
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700);\n@import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700);\n.display-1 {\n\tfont-weight: 700;\n\ttext-transform: uppercase;\n\tmargin-top: 40px;\n}\nP {\n\tfont-size: 30px;\n}\nH1 {\n\tfont-size: 60px;\n\tfont-family: 'Droid Serif', serif;\n}\nLABEL {\n\tfont-size: 23px;\n\tfont-family: 'Droid Serif', serif;\n}\n",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full header10\" data-bg-video=\"https://www.youtube.com/embed/IZYrMmMa7pI?rel=0&amp;amp;showinfo=0&amp;autoplay=0&amp;loop=0\">\n\n        <div class=\"mbr-overlay\" style=\"opacity: 0.3; background-color: rgb(0, 0, 0);\">    \n        </div>\n        <div class=\"mbr-table-cell\">\n            <div class=\"container\">\n                <div class=\"mbr-section row\">\n                    <div>\n                            <h1 class=\"mbr-section-title display-1 text-center startPreset mbr-editable-content\" code-editable-id=\"28\">«РЕДКАЯ ЕЛКА 2017»</h1>\n\n                            <div class=\"mbr-section-text lead text-center startPreset\">\n                                <p class=\"mbr-editable-content\" code-editable-id=\"29\"><strong><br></strong><strong>20 декабря 2016 года  в Общественной палате РФ <br>прошло новогоднее мероприятие для «особенных» детей.</strong><br><strong><br></strong><br></p>\n                            </div>\n            \n                \n                            <div class=\"mbr-figure intro-play-btn-figure\"><a href=\"#modalWindow\" class=\"icon54-right-10 mbr-iconfont mbr-iconfont-features4\" style=\"color: rgb(255, 255, 255);\"></a></div>\n    \n\n                            <a class=\"modalWindow-link\"><span class=\"intro-play-btn h-white mbr-editable-content\" code-editable-id=\"30\"><label class=\"startPreset\" for=\"modal\">СМОТРЕТЬ ВИДЕОКЛИП</label></span></a>\n\n                            \n\n                    </div>\n         \n\n                </div> \n            </div> \n        </div>\n        \n        <div class=\"mbr-arrow mbr-arrow-floating\" aria-hidden=\"true\">\n            <a href=\"#form3-3\">\n                <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/arrowdown-4.png\">\n            </a>\n        </div>\n\n        <div class=\"modalWindow\" id=\"modalWindow\">\n            <div class=\"modalWindow-container\">                      \n                 <div class=\"modalWindow-video-container\">\n                     <div class=\"modalWindow-video\" href=\"https://youtu.be/yDX4EPzUDcU\">\n                         <iframe width=\"100%\" height=\"100%\" src=\"https://www.youtube.com/embed/yDX4EPzUDcU\" frameborder=\"0\" allowfullscreen=\"1\"></iframe>\n                    </div>\n                    <a class=\"close\" role=\"button\" data-dismiss=\"modal\">\n                        <span aria-hidden=\"true\" class=\"closeModal\">×</span>\n                    </a>\n                 </div>\n            </div>\n        </div>       \n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customTemplate": true,
+          "_anchor": "header10-7"
+        },
+        {
+          "_styles": {
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase"
+            },
+            ".form-control-label": {},
+            ".mbr-section-title": {
+              "font-size": "25px",
+              "text-align": "center",
+              "color": "#333333"
+            },
+            ".btn": {
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700"
+            }
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form3",
+          "_anchor": "form3-8",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "file:///C:/Users/Pavel/AppData/Local/Mobirise.com/Mobirise/projectData/04.jpg",
+            "bgColor": "#ecf0f1",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#ecf0f1",
+            "showSubtitle": false,
+            "showTitle": true,
+            "showText": false
+          },
+          "subtitle": "Get notified about new amazing products",
+          "title": "Подписаться на свежие новости РЕДКОГО сайта!",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+          "form": {
+            "action": "spiporz@mail.ru",
+            "alerts": {
+              "success": "Ваша заявка на подписку оформлена!"
+            },
+            "fields": {
+              "message": {
+                "visible": false,
+                "title": "Message",
+                "customTitle": "Message"
+              },
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Ф.И.О.*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "E-mail*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              }
+            }
+          },
+          "iconName": "<img src=\"@PROJECT_PATH@/assets/images/icon-name.png\">",
+          "iconEmail": "<img src=\"@PROJECT_PATH@/assets/images/icon-email.png\">",
+          "iconPhone": "<img src=\"@THEME_PATH@/components/_images/form/icon-phone.png\">",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ПОДПИСАТЬСЯ</a>"
+        },
+        {
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-size": "12px",
+              "color": "#dddddd"
+            }
+          },
+          "_anchor": "content1-9",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#333333"
+          },
+          "text": "Информационные некоммерческие медиа-проекты:&nbsp;<br>Межрегиональной Благотворительной Общественной Организации Инвалидов &nbsp;<a href=\"http://spiporz.ru\" target=\"_blank\" style=\"font-style: normal;\" class=\"text-primary\">«СОЮЗ ПАЦИЕНТОВ И ПАЦИЕНТСКИХ ОРГАНИЗАЦИЙ ПО РЕДКИМ ЗАБОЛЕВАНИЯМ»</a> 2011-2017 ©<br><br>Со-автор проекта и креативный партнер: <a href=\"http://kochunov.ru/\" target=\"_blank\" class=\"text-primary\" style=\"font-style: normal;\">Pavel Kochunov</a> (CC-BY) 1997-2017&nbsp;"
+        }
+      ]
+    }
+  }
+}
